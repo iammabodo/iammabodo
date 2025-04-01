@@ -16,4 +16,4 @@ My interests include:
 - 🥑 **Food Security & Nutrition**
 - 🌾 **Agricultural & Development Economics**
 
-I an extensive R user, both in the work environment and personal projects
+Happy to chat about my past experience :)
