@@ -9,7 +9,6 @@ My experience spans across UN agencies projects, where I’ve led the analysis o
 I specialize in transforming raw data into actionable insight using tools like tidyverse, survey, sf, ggplot2, brms, with a growing focus on forecasting, Bayesian modeling, and small area estimation. My work reflects a commitment to equity, transparency, and scientific integrity in solving real-world challenges.
 
 My interests include:
-My interests include:
 - 📊 **Data Science & Analytics**
 - 🌍 **Spatial Data Science & GIS**
 - 📈 **Statistics & Micro-Econometrics**
